@@ -3,8 +3,9 @@
 ## Compétences
 <details>
 <summary>Javascript</summary>
-
- * NojeJS
- * VueJS
- * ES6
+<ul>
+<li>NojeJS</li>
+<li>VueJS</li>
+<li>ES6</li>
+</ul>
 </details>
