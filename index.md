@@ -10,4 +10,6 @@ title: Accueil
   * Mon alternance se passe à Rennes, chez [CYIM](https://www.cyim.com/)
 
 ## Mes articles
+  {% for post in site.posts %}
   * {{ post.title }}[{{ post.title }}]({{ post.url }})
+  {% endfor %}
