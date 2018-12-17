@@ -7,6 +7,5 @@ layout: post
 
 Découvrez mon premier article...
 <!--more-->
-# Ceci est mon premier article
 
 Une info super cool !
