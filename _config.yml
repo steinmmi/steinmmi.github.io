@@ -1,3 +1,5 @@
+# Site settings
 title: Mathieu Steinmetz
-description: Github.io personal website of Mathieu STEINMETZ
-theme: jekyll-theme-slate
+email: mathieu.steinmetz@orange.fr
+description: Mathieu Steinmetz github personal website
+github_username:  steinmmi
