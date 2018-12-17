@@ -1,6 +1,9 @@
 ---
 title: Accueil
 ---
+
+@import "{{ site.theme }}";
+
 # Accueil
 
 ## À propos de moi
