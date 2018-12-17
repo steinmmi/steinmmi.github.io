@@ -6,4 +6,4 @@ layout: post
 ---
 Découvrez mon premier article...
 <!--more-->
-Une info super cool !
+ Une info super cool !
